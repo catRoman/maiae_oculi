@@ -1,0 +1,6 @@
+[servers]
+maiae-master 
+ansible_host=127.0.0.1
+ansible_port=8023 
+ansible_user=maiae
+
